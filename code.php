@@ -23,7 +23,7 @@ THE SOFTWARE.
 
 */
 
-$custom_font = "fonts/Knockout-HTF48-Featherweight.otf";
+$custom_font = "fonts/HelveticaNeueCondBold.ttf";
 
 $x = strtolower($_GET["x"]); //GET the query string from the URL. x would = 600x400 if the url was http://dummyimage.com/600x400
 $x_pieces = explode('/',$x);
